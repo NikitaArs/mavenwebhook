@@ -99,6 +99,7 @@
 				<version>2.2</version>
 				<configuration>
 					<path>/CounterWebApp</path>
+					
 				</configuration>
 			</plugin>
 		</plugins>
